@@ -2,7 +2,7 @@ bandit==1.5.1
 junit-xml==1.8
 requests==2.21.0
 zeep==2.5.0
-PyYAML==3.12
+PyYAML==5.4
 bs4==0.0.1
 slackclient==1.2.1
 jira==1.0.15
